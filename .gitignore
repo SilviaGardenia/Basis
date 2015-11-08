@@ -1,0 +1,16 @@
+*.meta
+*.mat
+*.unity
+*.asset
+*.userprefs
+*.csproj
+*.png
+*.txt
+*.db
+*.log
+*.dwlt
+*.prefs
+*.stamp
+*.mdb
+*.dll
+UnityLockFile
